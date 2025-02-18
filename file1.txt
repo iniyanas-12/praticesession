@@ -1,0 +1,24 @@
+total 84
+drwxr-xr-x 17 iniyan iniyan 4096 Feb 11 17:35 .
+drwxr-xr-x  3 root   root   4096 Feb 10 04:07 ..
+-rw-------  1 iniyan iniyan  675 Feb 11 18:03 .bash_history
+-rw-r--r--  1 iniyan iniyan  220 Feb 10 04:07 .bash_logout
+-rw-r--r--  1 iniyan iniyan 3771 Feb 10 04:07 .bashrc
+drwxrwxr-x 15 iniyan iniyan 4096 Feb 11 11:41 .cache
+drwx------ 13 iniyan iniyan 4096 Feb 11 18:03 .config
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 11 17:27 Desktop
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 10 04:10 Documents
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 10 12:38 Downloads
+-rw-rw-r--  1 iniyan iniyan    0 Feb 12 10:14 file1.txt
+-rw-rw-r--  1 iniyan iniyan    0 Feb 12 10:14 file2.txt
+drwx------  3 iniyan iniyan 4096 Feb 10 13:03 .gnupg
+drwxr-xr-x  3 iniyan iniyan 4096 Feb 10 04:10 .local
+drwx------  4 iniyan iniyan 4096 Feb 10 04:11 .mozilla
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 10 04:10 Music
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 10 04:10 Pictures
+-rw-r--r--  1 iniyan iniyan  807 Feb 10 04:07 .profile
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 10 04:10 Public
+drwx------  2 iniyan iniyan 4096 Feb 10 13:03 .ssh
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 10 04:10 Templates
+drwxrwxr-x  2 iniyan iniyan 4096 Feb 11 18:03 trainingphase1
+drwxr-xr-x  2 iniyan iniyan 4096 Feb 10 04:10 Videos
